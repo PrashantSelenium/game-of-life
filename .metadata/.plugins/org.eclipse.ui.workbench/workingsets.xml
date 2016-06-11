@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465620717902_0" label="gameoflife" name="gameoflife">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gameoflife-build" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gameoflife-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gameoflife-web" type="4"/>
+</workingSet>
+</workingSetManager>
